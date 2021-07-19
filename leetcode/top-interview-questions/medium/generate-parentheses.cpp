@@ -1,6 +1,6 @@
 /*
 the solution is based on backtracking
-time complexity: exponential O(2^n)
+time complexity: exponential
 */
 #include <iostream>
 #include <vector>
